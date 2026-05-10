@@ -20,11 +20,11 @@
 <details>
   <summary> <h3> Why I Code </h3> </summary>
   
-I have a passion for learning. I love learning about various subjects, including astronomy, paleontology, mechanical engineering, and zoology, to name a few. Software development has allowed me to interact with these fields of science. 
+I have a passion for learning. I love learning about various subjects, including astronomy, paleontology, and robotics, to name a few. Software development has allowed me to interact with these fields of science. 
 
-I began learning to program by making games, and as I got older, my focus shifted to designing programs to serve more "practical" purposes. Of course, that original spark to make computer games is still present, but now it's joined with dreams of working on robots and software for big engineering projects.
+I began learning to program by making games, and as I got older, my focus shifted to designing programs to serve more "practical" purposes. Of course, that original spark to make computer games is still present, but now it's joined with dreams of working on robots and software for big engineering projects. 
 
-Algorithms, especially machine learning algorithms, have been very interesting to learn about, and I'm sure it'll be interesting to see where AI/ML research goes.
+I'd love to work on a project that ends up in space.
 
 </details>
 
