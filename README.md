@@ -17,7 +17,7 @@
 
 #
 
-<details>
+<details open>
   <summary> <h3> Why I Code </h3> </summary>
   
 I love learning about stuff, like astronomy, paleontology, and robotics. Software development has enabled me to interact with these fields of science. 
